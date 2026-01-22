@@ -34,6 +34,7 @@ Then, copy the file to an easy location.
 
 ```bash
 git clone https://github.com/starx/bookmarks-to-linkding.git
+cd bookmarks-to-linkding
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
